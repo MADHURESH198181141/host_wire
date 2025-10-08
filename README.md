@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # App Session Analysis & Anomaly Detection Pipeline
 
 ## 1. Project Overview
@@ -108,3 +109,6 @@ This project is designed to be extensible. Future enhancements could include:
 - **Full Automation:** Integrating the pipeline with a workflow orchestrator like Apache Airflow to run analyses automatically on a schedule.
 - **Real-Time Alerting:** Adding modules to send notifications to Slack or email when a critical anomaly is detected.
 - **Database Integration:** Modifying the data loading module to pull data directly from a production database instead of a static CSV file.
+=======
+# host_wire
+>>>>>>> 02c577d65e96a1db7c261dced35583f76f13ae8e
